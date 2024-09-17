@@ -11,7 +11,7 @@ Frontend: Built using HTML, CSS, and JavaScript, with a focus on modern web deve
 Backend: Utilizes a lightweight JavaScript library for efficient and seamless functionality.
 Storage: Stores lap times and split times locally using browser storage.
 Getting Started
-Clone the repository: git clone https://github.com/your-username/modern-style-stopwatch.git
+Clone the repository: git clone https://github.com/dipaliGit29/modern-style-stopwatch.git
 Open the project in your preferred code editor or IDE.
 Run the application by opening index.html in a web browser.
 Usage
